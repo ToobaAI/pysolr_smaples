@@ -1,2 +1,2 @@
 # pysolr_smaples
-This repo consists of  solr cliemt examples in python
+This repo consists of  solr client examples in python
